@@ -1,0 +1,15 @@
+{
+  "name": "intro_to_npm",
+  "version": "0.0.0",
+  "description": "npm introduction",
+  "main": "app.js",
+  "dependencies": {
+    "consolidate": "~0.9.1",
+    "express": "~4.0.0",
+    "mongoose": "~3.6.13",
+    "mongodb": "~1.4.34",
+    "body-parser": "~1.0.1"
+  },
+  "author": "Dede",
+  "license": "MIT"
+}
