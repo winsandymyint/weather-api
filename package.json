@@ -3,6 +3,10 @@
   "version": "0.0.0",
   "description": "npm introduction",
   "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/winsandymyint/weather-api.git"
+  },
   "dependencies": {
     "consolidate": "~0.9.1",
     "express": "~4.0.0",
